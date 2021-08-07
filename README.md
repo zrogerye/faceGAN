@@ -12,3 +12,35 @@ https://user-images.githubusercontent.com/67408272/128583488-0f54b8d2-ac86-4352-
 ![losses](https://user-images.githubusercontent.com/67408272/128583919-4677b013-c04a-41f7-a219-7bc1e7ec6e14.png)
 ![scores](https://user-images.githubusercontent.com/67408272/128583921-fa740d41-2002-4cbf-9f3e-0a3c51de38c5.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Links
+https://www.jovian.ai/
